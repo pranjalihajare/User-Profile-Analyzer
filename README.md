@@ -8,6 +8,7 @@ Push your repo to GitHub
 Connect it to Vercel at https://vercel.com
 
 Set the environment variables in the Vercel dashboard
+
 Live Link:https://user-profile-analyzer-sandy.vercel.app/
 
 Currently, two official plugins are available:
