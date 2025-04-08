@@ -2,6 +2,14 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+## Deploy Web App to Vercel (Recommended)
+Push your repo to GitHub
+
+Connect it to Vercel at https://vercel.com
+
+Set the environment variables in the Vercel dashboard
+Live Link:https://user-profile-analyzer-sandy.vercel.app/
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
